@@ -7,7 +7,7 @@ This is a project where I created the architecture for a Markov Decision Process
 1. Use the collected data on praries to define state-spaces, measuring how desirable the condition of the measured prairie transects are for the managers
 1. Create a probability transition matrix out of the data to measure the probability that 1 state turns into another between measurements, given a certain action
 1. Create a reward matrix in which to base the decision model, incentivising transitions to more desirable states and disincentivising transitions to less desirable spaces
-1. Create the architecture for a Markov Decision Process, which takes in the measured variables of a transect and outputs the action that is most likely to lead to the largest state improvement 
+1. Create the architecture for a Markov Decision Process, which takes in the measured variables of a transect and outputs the action that is most likely to lead to the largest improvement within the state-space
 
 ## Files
 
