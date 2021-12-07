@@ -15,5 +15,5 @@ This is a project where I created the architecture for a Markov Decision Process
 
 1. LISA_Project2.rmd contains much of the code (done in R) to complete this project
 
-The data is ommitted since I don't have permission to share it publicly
+The data and final architecture have been ommitted since I don't have permission to share them publicly
 
