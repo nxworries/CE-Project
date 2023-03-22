@@ -1,5 +1,5 @@
 # CE-Project
-This is a ResearchProject I completed for my masters program
+This is a Research Project I completed for my masters program
 
 ## About
 This is a project where I created the architecture for a Markov Decision Process for which the purpose was to aid the decision making process for grassland managers in the Midwest United States. The Grassland Monitoring team, a partnership between the Us Fish and Wildlife Service, the National Conservancy, and the Minnesota Department of Natural Resources, started collecting data to make more informed decisions about grassland management since around 2008. Grassland managers can decide to burn or graze their land which has been shown to have ecological benefits for the ecosystem as a whole. The goals of this project were to:
